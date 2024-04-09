@@ -24,9 +24,9 @@ This dataset was transformed for categorical variables and a normalised scaling 
 
 ## Conclusions
 Based on the final model, I see below features contribute the most towards explaining demand of the shared bike
-a.	Temperature – Coefficient for the temperature is 0.45 and this is the max for all the predictors combined.  Correlation coefficient for this is 0.63 based on corr function. This can explain the increase in bike rentals as the higher temperatures could drive people to go out much and enjoy the bike rides or also rides to parks etc on holidays.
-b.	Weather – Second most important predictor is weather. If the weather is bad with thunderstorms, no bikes are rented as we see from the data set. Also, from data visualization we saw that ‘Dry’ weather accounted for more bike rentals. In the final model, we have negative 0.29 as coefficient for ‘Wet’ weather. This is the lowest coefficient we have amongst all predictors. This could also mean, when there is light rain/snow – count of rented bikes falls. So, when the weather is Dry, we should have increase in the bikes rented.
-c.	Year – year has a coefficient as 0.23. This is significant in saying that demand for bike sharing is going up from the time it was introduced.  
+1.	Temperature – Coefficient for the temperature is 0.45 and this is the max for all the predictors combined.  Correlation coefficient for this is 0.63 based on corr function. This can explain the increase in bike rentals as the higher temperatures could drive people to go out much and enjoy the bike rides or also rides to parks etc on holidays.
+2.	Weather – Second most important predictor is weather. If the weather is bad with thunderstorms, no bikes are rented as we see from the data set. Also, from data visualization we saw that ‘Dry’ weather accounted for more bike rentals. In the final model, we have negative 0.29 as coefficient for ‘Wet’ weather. This is the lowest coefficient we have amongst all predictors. This could also mean, when there is light rain/snow – count of rented bikes falls. So, when the weather is Dry, we should have increase in the bikes rented.
+3.	Year – year has a coefficient as 0.23. This is significant in saying that demand for bike sharing is going up from the time it was introduced.  
 
 
 

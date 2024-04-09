@@ -1,14 +1,14 @@
 # Bike Sharing Assignment
 In this case assignment we are building a multiple regression model to predict the count of bikes shared based on season, weather, date etc.
 We will be using below steps to create regression model here.
-  a. Reading and Understanding dataset
-  b. Visualise data
-  c. Prepare data for modelling
-  d. Split data in training and test dataset
-  e. Build linear model
-  f. Analysis of Residuals
-  g. Make predictions using final model on test data set
-  h. Evaluate model.
+  1. Reading and Understanding dataset
+  2. Visualise data
+  3. Prepare data for modelling
+  4. Split data in training and test dataset
+  5. Build linear model
+  6. Analysis of Residuals
+  7. Make predictions using final model on test data set
+  8. Evaluate model.
 
 ## Table of Contents
 * [General Info](#general-information)
